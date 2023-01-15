@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there 👋, Frederick Kwame Aziebu
+#### Design and Development
+![Design and Development](https://pbs.twimg.com/profile_banners/1450421859405676545/1673810645/600x200)
 
 I am a student at Kwame Nkrumah University of Science and Technology in Ghana. I am passionate about Computer Science and Engineering. I want to raise the standard of living of communities and economies through technology and innovation. This motive challenges me to keep learning about the ever advancing tech industry and explore the amazing applications of technology as it makes living easier and better. You can check out my personal portfolio page at https://fkaaziebu-portfolio.netlify.app
 
+Skills: REACT / JS / JAVA / PYTHON / HTML / CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkaaziebu)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🔭 I’m currently working on this page.
