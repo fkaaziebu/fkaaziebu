@@ -4,7 +4,7 @@
 I am a student at Kwame Nkrumah University of Science and Technology in Ghana. I am passionate about Computer Science and Engineering. I want to raise the standard of living of communities and economies through technology and innovation. This motive challenges me to keep learning about the ever advancing tech industry and explore the amazing applications of technology as it makes living easier and better. You can check out my personal portfolio page at https://fkaaziebu-portfolio.netlify.app
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=2">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
