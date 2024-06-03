@@ -4,7 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-• Passionate, self-taught software engineer with about 2 years of Software Development experience. • Hands-on programming experience with JavaScript, Python and Java • Extensive experience in building and deploying web applications through tools like Nuxt, Docker, Git, Digital Ocean Cloud Platform for deployment. • Strong understanding of Software Development Life Cycle • Work well in a dynamic Agile environment with minimum or no specifications • Strong team player with the ability to work productively in a team as well as individually • Excellent analytical, communication, and problem-solving skills.
+- Passionate, self-taught software engineer with about 2 years of Software Development experience.
+- Hands-on programming experience with JavaScript, Python and Java
+- Extensive experience in building and deploying web applications through tools like Nuxt, Docker, Git, Digital Ocean Cloud Platform for deployment.
+- Strong understanding of Software Development Life Cycle
+- Work well in a dynamic Agile environment with minimum or no specifications
+- Strong team player with the ability to work productively in a team as well as individually
+- Excellent analytical, communication, and problem-solving skills.
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [frederickaziebu1998@gmail.com](mailto:frederickaziebu1998@gmail.com)
